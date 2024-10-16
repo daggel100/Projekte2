@@ -1,0 +1,11 @@
+.hero-section {
+    background-image: url("./images/heroImg.png");
+    /* zentrieren des Bildes */
+    background-size: cover;
+    /* damit Berg im Blickfang ist */
+    background-position: bottom;
+}
+
+/* .container-section {
+
+} */
